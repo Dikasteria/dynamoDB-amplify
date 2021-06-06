@@ -6,3 +6,5 @@ type Song @model {
   like: Int!
   owner: String!
 }
+
+
